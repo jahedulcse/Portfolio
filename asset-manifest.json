@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.23f75a6c.chunk.css",
+    "main.js": "/Portfolio/static/js/main.7a9f9cdc.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.7a9f9cdc.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.5a418774.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.5a418774.js.map",
+    "static/js/2.d948d0dc.chunk.js": "/Portfolio/static/js/2.d948d0dc.chunk.js",
+    "static/js/2.d948d0dc.chunk.js.map": "/Portfolio/static/js/2.d948d0dc.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/Portfolio/static/css/3.df879eac.chunk.css",
+    "static/js/3.1bc04481.chunk.js": "/Portfolio/static/js/3.1bc04481.chunk.js",
+    "static/js/3.1bc04481.chunk.js.map": "/Portfolio/static/js/3.1bc04481.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/Portfolio/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.a0d26598.chunk.js": "/Portfolio/static/js/4.a0d26598.chunk.js",
+    "static/js/4.a0d26598.chunk.js.map": "/Portfolio/static/js/4.a0d26598.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.17b7209e433238dfdbde929d4374e61f.js": "/Portfolio/precache-manifest.17b7209e433238dfdbde929d4374e61f.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/Portfolio/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/Portfolio/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.23f75a6c.chunk.css.map": "/Portfolio/static/css/main.23f75a6c.chunk.css.map",
+    "static/js/2.d948d0dc.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.d948d0dc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/ban_logo.svg": "/Portfolio/static/media/ban_logo.4d5ddb8c.svg",
+    "static/media/city-bank.png": "/Portfolio/static/media/city-bank.dc00e296.png",
+    "static/media/codeInLogo.webp": "/Portfolio/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMailDark.svg": "/Portfolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/daffodil-international-university-logo.png": "/Portfolio/static/media/daffodil-international-university-logo.722c5710.png",
+    "static/media/developerActivity.svg": "/Portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/googleAssistantLogo.webp": "/Portfolio/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/manOnTable.svg": "/Portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/pwaLogo.webp": "/Portfolio/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/skill.svg": "/Portfolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/Portfolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a418774.js",
+    "static/js/2.d948d0dc.chunk.js",
+    "static/css/main.23f75a6c.chunk.css",
+    "static/js/main.7a9f9cdc.chunk.js"
+  ]
+}
